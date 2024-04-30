@@ -1435,7 +1435,7 @@ h2 {
             font-size: 17px;
             text-align: justify;
             line-height: 1.5;
-            color: red;
+            color: rgb(0, 0, 0);
         }
 
         .aboutcontainer span {
@@ -1604,6 +1604,7 @@ h2 {
 
         .timeline-content p {
             color: #8D8585;
+            background-color: transparent;
         }
 
 
