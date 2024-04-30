@@ -569,29 +569,7 @@ text-align: right;
     color: #868686;
 }
 
-.timeline-content a {
 
-    font-weight: 600;
-    font-size: 14px;
-    padding: 10px 12px;
-    transition: all 0.2s ease;
-    text-decoration: none;
-    background-color: rgb(0, 0, 0);
-    color: rgb(255, 255, 255);
-    font-weight: 600;
-    border-radius: 5px;
-    letter-spacing: 2px;
-    text-transform: uppercase;
-
-
-
-}
-
-.timeline-content a:hover {
-    cursor: pointer;
-    transform: translateY(-3px);
-    color: #e3d9d9;
-}
 
 /* JOURNEY SECTION ENDS */
 
@@ -1604,7 +1582,7 @@ h2 {
 
         .timeline-content p {
             color: #8D8585;
-            background-color: transparent;
+            background-color: transparent !important;
         }
 
 
