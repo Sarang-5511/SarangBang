@@ -1202,7 +1202,7 @@ h2 {
         .introcontainer {
             position: absolute;
             /* text-align: center; */
-            top: 10%;
+            top: 15%;
             width: 100%;
             padding: 0;
 
@@ -1380,6 +1380,7 @@ h2 {
             padding-bottom: 20px;
             /* border-bottom: 1px solid black; */
             padding-left: 0px;
+            margin-top: 20px;
 
         }
 
