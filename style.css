@@ -851,6 +851,7 @@ text-align: right;
     justify-content: center;
     align-items: center;
     flex-direction: column;
+    height: 100%;
 }
 .community h3 {
     font-size: 40px;
@@ -863,6 +864,7 @@ text-align: right;
     font-size: 18px;
     color: whitesmoke;
     font-weight: 500;
+    text-align: justify;
 }
 
 
@@ -1523,15 +1525,7 @@ h2 {
             position: relative;
         }
 
-        /* .timeline-item:nth-child(odd){
-        padding-right: calc(50% + 30px);
-        text-align: right;
-        }
-        .timeline-item:nth-child(even){
-            padding-left: calc(50% + 30px);
-            text-align: left;
-        
-        } */
+       
         .timeline-dot {
             padding: 10px 18px;
             color: white;
@@ -1573,7 +1567,7 @@ h2 {
         }
 
         .timeline-content p {
-            color: #8D8585;
+            color: #8D8585 !important;
             background-color: transparent !important;
         }
 
