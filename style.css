@@ -1080,8 +1080,8 @@ h2 {
 
         height: 100vh;
         background-position: center;
-
-        /*
+    
+        
     }
 
     .cvbutton {
@@ -1839,7 +1839,7 @@ h2 {
         .publicationcontent a:hover {
             transform: translateY(-3px);
         }
-    }
+    
 
     /* PUBLICATIONS SECTION ENDS */
 
