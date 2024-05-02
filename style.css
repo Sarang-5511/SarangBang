@@ -1052,7 +1052,9 @@ h2 {
 /* scroll up button ends */
 
 
-
+.projectrow{
+    margin-top: 40px;
+}
 
 
 
@@ -1072,7 +1074,11 @@ h2 {
 
 
 @media only screen and (max-width:700px) {
-
+    .projectrow{
+        margin-top: 0px;
+    }
+    
+    
     html,
     body {
         overflow-x: none;
