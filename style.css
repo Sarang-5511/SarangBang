@@ -782,6 +782,7 @@ text-align: right;
 }
 
 .publications img {
+    max-width: 100%;
     width: 100%;
     height: 14em;
     border-radius: 15px 15px 0 0;
@@ -828,7 +829,16 @@ text-align: right;
 .swiper-slide {
     border: 4px solid wheat;
 }
-
+#otherinterest-section{
+    padding: 3% 12%;
+    margin: auto;
+    background-image: url(assets/background2.jpeg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+}
 
 /* .swiper-button-prev:after, .swiper-rtl, .swiper-button-next:after{
     font-size: 10px;
@@ -1081,7 +1091,7 @@ h2 {
     
     html,
     body {
-        
+        overflow-x: hidden;
         width: 100%;
         margin: 0;
 
