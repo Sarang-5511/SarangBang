@@ -1064,6 +1064,7 @@ h2 {
 
 .projectrow{
     margin-top: 40px;
+    width: 100%;
 }
 
 
@@ -1787,7 +1788,7 @@ h2 {
             outline: none;
             border-radius: 15px;
             margin: 30px auto;
-            width: 100%;
+            width: 100% !important;
             height: 25em;
             background-color: #ffe6e6;
             box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
