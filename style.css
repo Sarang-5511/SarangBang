@@ -1064,8 +1064,64 @@ h2 {
 
 .projectrow{
     margin-top: 40px;
-    width: 100%;
+    
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -1704,7 +1760,7 @@ h2 {
         .projects {
 
             height: 25em;
-            width: 100%;
+            width: 100% !important;
             margin: 0 auto 2rem;
         }
 
