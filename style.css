@@ -1154,7 +1154,7 @@ h2 {
         margin: 0;
 
         padding: 0;
-        overflow-x: hidden;
+        /* overflow-x: hidden; */
         height: 100vh;
         background-position: center;
         
@@ -1259,6 +1259,7 @@ h2 {
         #particles-js {
             padding: 0;
             width: 100%;
+            overflow: hidden;
 
             /* background-color: #ffffff; */
             /* background-color: #32A9FF; */
